@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639446706265",
+    "project_id": "fir-cloud-d0654",
+    "storage_bucket": "fir-cloud-d0654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639446706265:android:bc75936cd2e68cb6066948",
+        "android_client_info": {
+          "package_name": "com.example.storingmediatofirebasecloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8WgeBcA0PoIj_wGBcy88GF1b8UPtwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
